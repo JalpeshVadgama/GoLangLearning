@@ -21,13 +21,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Operator.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Operator.go">
+      <file leaf-file-name="Branching.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Branching.go">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.78289473">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding>
-                <element signature="e#14#31#0" expanded="true" />
+                <element signature="e#13#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/src/Cosntant.go" />
         <option value="$PROJECT_DIR$/src/Collection.go" />
         <option value="$PROJECT_DIR$/src/Operator.go" />
+        <option value="$PROJECT_DIR$/src/Branching.go" />
       </list>
     </option>
   </component>
@@ -141,15 +142,7 @@
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run Operator.go">
-    <configuration default="false" name="Build HelloWorld.go and run" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <output_file path="$PROJECT_DIR$/bin" />
-      <module name="GoLangLearning" />
-      <working_directory value="F:\Data\Blog\Samples\GoLangLearning" />
-      <filePath value="$PROJECT_DIR$/src/HelloWorld.go" />
-      <kind value="FILE" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.go run Branching.go">
     <configuration default="false" name="go run PremetiveDataTypes.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GoLangLearning" />
       <working_directory value="F:\Data\Blog\Samples\GoLangLearning" />
@@ -172,6 +165,12 @@
       <module name="GoLangLearning" />
       <working_directory value="F:\Data\Blog\Samples\GoLangLearning" />
       <filePath value="$PROJECT_DIR$/src/Operator.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run Branching.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLangLearning" />
+      <working_directory value="F:\Data\Blog\Samples\GoLangLearning" />
+      <filePath value="$PROJECT_DIR$/src/Branching.go" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -233,19 +232,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Application.Build HelloWorld.go and run" />
-      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run PremetiveDataTypes.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Cosntant.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run Collection.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run Operator.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run PremetiveDataTypes.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run Cosntant.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Collection.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run Operator.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run Branching.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run Operator.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run Collection.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Cosntant.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run PremetiveDataTypes.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Application.Build HelloWorld.go and run" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run Branching.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run Operator.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run Collection.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run Cosntant.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run PremetiveDataTypes.go" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +270,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -367,7 +366,18 @@
         <state vertical-scroll-proportion="0.78289473">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <marker date="1444472178301" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1444472178301" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Branching.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78289473">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#13#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
