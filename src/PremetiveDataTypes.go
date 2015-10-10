@@ -14,5 +14,4 @@ func main()  {
 	myString := "Hello world"
 	fmt.Println(myString)
 
-
 }
